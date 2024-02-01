@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="../css/style.css">
 </head>
 <body>
     <div class="login">
@@ -22,12 +22,6 @@
                     <td>&nbsp;</td>
                     <td>
                         <button class="btn-checkout" type="submit" name="login" value="login">Login</button>
-                    </td>
-                </tr>
-                <tr>
-                    <td>&nbsp;</td>
-                    <td>
-                        <a href="register.php">Buat akun</a>
                     </td>
                 </tr>
             </table>
